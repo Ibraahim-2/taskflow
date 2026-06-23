@@ -5,3 +5,5 @@ Aplikasi manajmen tuga multi-user. Proyek belajar arsitektur fullstack.
 
 ## Stack
 FastAPI + React + PostgresSQL
+
+Dibuat sebagai proyek belajar mentoring fullstack.
