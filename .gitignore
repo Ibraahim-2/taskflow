@@ -3,3 +3,4 @@ __pycache__/
 .evn
 node_modules
 ./vscode
+v1.py
